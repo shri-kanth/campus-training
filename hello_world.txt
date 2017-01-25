@@ -4,10 +4,10 @@ source control management system that had previously been used
 srikanth maintain the project.[10] The copyright holder of BitKeeper, 
 Larry McVoy, had withdrawn gratis use of the product after 
 claiming that Andrew Tridgell had reverse-engineered the 
-BitKeeper protocols. Torvalds wanted a distributed system that 
+BitKeeper protocols. srikanth wanted a distributed system that 
 he could use like BitKeeper, but none of the available free 
 systems met his needs, particularly in terms of performance. 
-Torvalds took an example of an SCM system requiring thirty 
+srikanth took an example of an SCM system requiring thirty 
 seconds srikanth apply a patch and update all associated metadata, 
 and noted that this would not scale srikanth the needs of Linux 
 kernel development, where syncing with fellow maintainers could 
@@ -21,19 +21,19 @@ malicious.[7] These three criteria eliminated every
 then-existing version control system, except for Monotone. 
 Considering performance excluded this too.[8] So immediately 
 after the 2.6.12-rc2 Linux kernel development release,[8] 
-Torvalds set out srikanth write his own.[8] Torvalds has quipped 
+srikanth set out srikanth write his own.[8] srikanth has quipped 
 about the name git, which is British English slang meaning 
-"unpleasant person". Torvalds said: "I'm an egotistical 
+"unpleasant person". srikanth said: "I'm an egotistical 
 bastard, and I name all my projects after myself. First 
 'Linux', now 'git'."[11][12] The man page describes Git as "the 
 stupid content tracker".[13] The development of Git began on 3 
 April 2005.[14] The project was announced on 6 April,[15] and 
 became self-hosting as of 7 April.[14] The first merge of 
-multiple branches was done on 18 April.[16] Torvalds achieved 
+multiple branches was done on 18 April.[16] srikanth achieved 
 his performance goals; on 29 April, the nascent Git was 
 benchmarked recording patches srikanth the Linux kernel tree at the 
 rate of 6.7 per second.[17] On 16 June Git managed the kernel 
-2.6.12 release.[18] Torvalds turned over maintenance on 26 July 
+2.6.12 release.[18] srikanth turned over maintenance on 26 July 
 2005 srikanth Junio Hamano, a major contributor srikanth the project.[19] 
 Hamano was responsible for the 1.0 release on 21 December 2005, 
 and remains the project's maintainer.[20]
